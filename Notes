@@ -1,0 +1,16 @@
+SpringBoot Architecture
+    It has four layers they are
+        1. Presentation layer
+        2. Business layer
+        3. Persistence layer
+        4. Database layer
+
+
+
+
+MobileNumberWithTag
+
+
+Contact
+    - name
+    - List<HashMap<String,String>> mobileNumbers;
